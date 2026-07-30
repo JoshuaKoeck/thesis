@@ -1,0 +1,83 @@
+{
+  "_comment": "The ETFs as described in the thesis, categorized by region, color, and size.",
+  "europe__green__large": [
+    {
+      "name": "Xtrackers MSCI Europe ESG UCITS ETF 1C",
+      "isin": "IE00BFMNHK08",
+      "ticker": "XZEU.F",
+      "company": "DWS"
+    }
+  ],
+  "europe__brown__large": [
+    {
+      "name": "iShares MSCI Europe Energy Sector UCITS ETF",
+      "isin": "IE00BMW42637",
+      "ticker": "ESIE.F",
+      "company": "iShares"
+    }
+  ],
+  "europe__green__small": [
+    {
+      "name": "BNP Paribas Easy MSCI Europe Small Caps SRI PAB UCITS ETF",
+      "isin": "LU1291101555",
+      "ticker": "EESM.F",
+      "company": "BNP Paribas"
+    }
+  ],
+  "europe__brown__small": [
+    {
+      "name": "Amundi STOXX Europe 600 Energy Screened UCITS ETF Acc",
+      "isin": "LU1834988278",
+      "ticker": "ENRG.PA",
+      "company": "Amundi"
+    }
+  ],
+  "north_america__green__large": [
+    {
+      "name": "iShares ESG Optimized MSCI USA ETF",
+      "isin": null,
+      "ticker": "SUSA",
+      "company": "iShares"
+    }
+  ],
+  "north_america__brown__large": [
+    {
+      "name": "iShares S&P 500 Energy Sector UCITS ETF",
+      "isin": "IE00B42NKQ00",
+      "ticker": "IESU.L",
+      "company": "iShares"
+    }
+  ],
+  "north_america__green__small": [
+    {
+      "name": "UBS MSCI USA Small Cap Selection UCITS ETF",
+      "isin": "IE000XFXBGR0",
+      "ticker": "USSMC.MI",
+      "company": "UBS"
+    }
+  ],
+  "north_america__brown__small": [
+    {
+      "name": "Invesco S&P SmallCap Energy ETF",
+      "isin": "US46138G4745",
+      "ticker": "PSCE",
+      "company": "Invesco"
+    }
+  ],
+  "asia__green__large": [
+    {
+      "name": "Global X China Clean Energy ETF",
+      "isin": "n/a",
+      "ticker": "9809.HK",
+      "company": "Global X"
+    }
+  ],
+  "asia__brown__large": [
+    {
+      "name": "Global X MSCI China Energy ETF",
+      "isin": "n/a",
+      "ticker": "CHIE",
+      "company": "Global X"
+    }
+  ]
+}

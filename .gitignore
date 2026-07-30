@@ -1,0 +1,11 @@
+*.csv
+*.xlsx
+*.parquet
+*.txt
+.env
+.jsonl
+
+!media/
+!media/*
+
+media/~$*

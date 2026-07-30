@@ -1,0 +1,9 @@
+pandas
+refinitiv-data
+statsmodels
+scipy
+openpyxl
+bs4
+tqdm
+fastparquet
+gdelt
